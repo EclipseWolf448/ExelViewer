@@ -1,4 +1,4 @@
-Uses Light and Dark theme from https://github.com/rdbende/Forest-ttk-theme
+Requires Themes from https://github.com/rdbende/Forest-ttk-theme
 
 Examples:
 
