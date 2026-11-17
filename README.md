@@ -5,12 +5,12 @@ Examples:
 Light Main:
 
 
-![image](Light%20Main.png)
+![image](Images/Light%20Main.png)
 
 Light Search:
 
 
-![image](Light%20Search.png)
+![image](Images/Light%20Search.png)
 
 Dark Main:
 
@@ -20,4 +20,4 @@ Dark Main:
 Dark Search:
 
 
-![image](Dark%20Search.png)
+![image](Images/Dark%20Search.png)
