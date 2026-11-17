@@ -15,7 +15,7 @@ Light Search:
 Dark Main:
 
 
-![image](/Images/Dark&20Main.png)
+![image](Images/Dark%20Main.png)
 
 Dark Search:
 
